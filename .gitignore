@@ -1,0 +1,7 @@
+.idea
+C:/
+out
+target
+*.iml
+log
+*.patch
